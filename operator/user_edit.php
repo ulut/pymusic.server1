@@ -9,15 +9,8 @@ include("header.php");
         $user_type = getpost('user_type');
         $phone = getpost('phone');
 
-//        $password = getpost('password');
-//        $password2 = getpost('password2');
-//        if($password != $password2){
-//            echo $error .= "Пароли не совпадают попробуйте еще раз!";
-//        }
-//        $user_password = md5($password);
         $update = array(
             "username" => $user_name,
-//            "password" => $user_password,
             "user_type" => $user_type,
             "status" => 1,
             "full_name" => $full_name,
@@ -70,15 +63,6 @@ include("nav.php");
                         <input type="text" class="form-control" name="phone" value="<?=$item['phone'];?>">
                     </div>
 
-<!--                    <div class="form-group input-group">-->
-<!--                        <span class="input-group-addon">Пароль </span>-->
-<!--                        <input type="password" class="form-control" name="password" required="required">-->
-<!--                    </div>-->
-<!---->
-<!--                    <div class="form-group input-group">-->
-<!--                        <span class="input-group-addon">Повторите пароль </span>-->
-<!--                        <input type="password" class="form-control" name="password2" required="required">-->
-<!--                    </div>-->
                     <div class="form-group input-group">
                         <span class="input-group-addon">Тип пользователя </span>
                         <select class="form-control" id="sel1" name="user_type">
