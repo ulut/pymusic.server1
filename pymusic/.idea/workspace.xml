@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" name="Default" comment="" />
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/app.blade.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425465948795" ignored="false" />
+    <file path="/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428646833696" ignored="false" />
+    <file path="/login.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428584567183" ignored="false" />
+    <file path="/addUser.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426513591388" ignored="false" />
+    <file path="/usercontrol.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427094903650" ignored="false" />
+    <file path="/logout.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427102572150" ignored="false" />
+    <file path="/admin.blade.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426246925413" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426073023987" ignored="false" />
+    <file path="/showUser.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426511849795" ignored="false" />
+    <file path="/style.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427970651599" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Charts for aparts/index.html" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425554409130" ignored="false" />
+    <file path="/index.html" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425827950564" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Charts for aparts/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425554501410" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Charts for aparts/index.blade.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425555070965" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Charts for aparts/js.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425555008549" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/index.blade.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425555386415" ignored="false" />
+    <file path="/index.blade.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425555262984" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425555470209" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/www/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425561886866" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/www/config.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425556265235" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/.idea/workspace.xml" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425574842212" ignored="false" />
+    <file path="$PROJECT_DIR$/../../charts.jp/www/js/jquery.canvasjs.min.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425574686739" ignored="false" />
+    <file path="/addSong.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426504853008" ignored="false" />
+    <file path="/showSong.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425799616405" ignored="false" />
+    <file path="/addSinger.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425798987056" ignored="false" />
+    <file path="/chooseSinger.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426074153783" ignored="false" />
+    <file path="/datepicker3.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425756808174" ignored="false" />
+    <file path="/dummy.xml" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427876509208" ignored="false" />
+    <file path="/a.dummy" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427285697015" ignored="false" />
+    <file path="/showSinger.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425830162434" ignored="false" />
+    <file path="/bootstrap-datepicker.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425823266109" ignored="false" />
+    <file path="/script.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426079322833" ignored="false" />
+    <file path="/styles.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425829262267" ignored="false" />
+    <file path="/date.html" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425831708688" ignored="false" />
+    <file path="/datepicker.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425832437798" ignored="false" />
+    <file path="/jquery-ui.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1425837223902" ignored="false" />
+    <file path="/config.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428399523069" ignored="false" />
+    <file path="/mysql.class.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426611526335" ignored="false" />
+    <file path="/user_tie_manager.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428555206298" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/test dev/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426077102860" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/test dev/ajaxsubmit.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426077059168" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/test dev/script.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426076878532" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/test dev/style.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426076914432" ignored="false" />
+    <file path="/ajaxsubmit.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427882398259" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/ajaxsubmit.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426163350885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/index.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426162396221" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/script.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426079435821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/style.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426078954149" ignored="false" />
+    <file path="/styles1.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426159780238" ignored="false" />
+    <file path="/scripts.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426166235979" ignored="false" />
+    <file path="$PROJECT_DIR$/../../test.dev/www/scripts.js" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426237885878" ignored="false" />
+    <file path="/submit.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426238380164" ignored="false" />
+    <file path="/cssmenu.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426245181392" ignored="false" />
+    <file path="/bootstrap.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426350277930" ignored="false" />
+    <file path="/showStatisticsAboutRadio.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427092079243" ignored="false" />
+    <file path="/jquery-ui.min.css" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426762350811" ignored="false" />
+    <file path="$PROJECT_DIR$/../../radio.jp/www/admin/showStatisticsAboutRadio.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1426772471754" ignored="false" />
+    <file path="/nav.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428559475653" ignored="false" />
+    <file path="/user_control.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427102412593" ignored="false" />
+    <file path="/user_list.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428498437311" ignored="false" />
+    <file path="/header.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428473409342" ignored="false" />
+    <file path="/user_edit.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427883781293" ignored="false" />
+    <file path="/user_add.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428573150411" ignored="false" />
+    <file path="/user_delete.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427107342653" ignored="false" />
+    <file path="/footer.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428570268219" ignored="false" />
+    <file path="$PROJECT_DIR$/../../aibek.jp/www/config.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427110990790" ignored="false" />
+    <file path="/report_class.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427266191821" ignored="false" />
+    <file path="$PROJECT_DIR$/../midpoint.pro/.idea/workspace.xml" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427270272687" ignored="false" />
+    <file path="/ajax_singer.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427620195069" ignored="false" />
+    <file path="/test.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427977486248" ignored="false" />
+    <file path="/tester.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427971791883" ignored="false" />
+    <file path="/ajax_radio.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427452163737" ignored="false" />
+    <file path="$PROJECT_DIR$/../midpoint.pro/admin/ingredients_report.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427361340275" ignored="false" />
+    <file path="$PROJECT_DIR$/../midpoint.pro/control/zakaz_close.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427361340275" ignored="false" />
+    <file path="/functions.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427457996143" ignored="false" />
+    <file path="/ajax_song_result.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427720362408" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/admin/edit_episode.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427770668865" ignored="false" />
+    <file path="$PROJECT_DIR$/../../radio_statistics.jp/www/admin/user_list.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427880808713" ignored="false" />
+    <file path="$PROJECT_DIR$/../../chart.jp/www/config.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427886979138" ignored="false" />
+    <file path="/statistics_by_songs.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1427977970280" ignored="false" />
+    <file path="$PROJECT_DIR$/../helloworld/config/database.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428049588918" ignored="false" />
+    <file path="$PROJECT_DIR$/../helloworld/app/Http/Controllers/HomeController.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428050090675" ignored="false" />
+    <file path="/testautocomplete.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428409431537" ignored="false" />
+    <file path="/abakan.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428412076093" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/films/left_bar.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428473743919" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/films/detail.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428473660223" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/films/category.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428468143929" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/header.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428473411721" ignored="false" />
+    <file path="/left_bar.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428473717125" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/serials/left_bar.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428469642375" ignored="false" />
+    <file path="/detail.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428498017478" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/.htaccess" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428495146223" ignored="false" />
+    <file path="/.htaccess" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428494950378" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/404.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428481026898" ignored="false" />
+    <file path="/404.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428481017053" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/article.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428486271820" ignored="false" />
+    <file path="/article.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428486264366" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/films/main_content.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428489631639" ignored="false" />
+    <file path="/main_content.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428493366735" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/serials/main_content.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428493401730" ignored="false" />
+    <file path="$PROJECT_DIR$/../filmdizi.jp/main/serials/detail.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428498017806" ignored="false" />
+    <file path="/image_upload.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428645801785" ignored="false" />
+    <file path="/upload.php" changelist="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" time="1428646379721" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="233" selection-end="233" vertical-scroll-proportion="-0.65384614">
+              <folding>
+                <marker date="1428584731390" expanded="true" signature="1067:4140" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="1075:2206" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="1995:2195" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2214:4131" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2239:3734" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2261:3727" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2308:3716" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2366:3701" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2410:2497" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2538:3682" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2610:3659" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2645:3631" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2698:2857" placeholder="..." />
+                <marker date="1428584731390" expanded="true" signature="2910:3070" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="29" selection-start="2661" selection-end="2661" vertical-scroll-proportion="-3.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_upload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/image_upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="40" selection-end="3148" vertical-scroll-proportion="-1.3333334">
+              <folding>
+                <marker date="1428646140190" expanded="true" signature="61:3147" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="68:2465" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="414:2464" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="532:2449" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="692:999" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="737:790" placeholder="{&quot;id&quot;: 'filediv'...}" />
+                <marker date="1428646140190" expanded="true" signature="828:964" placeholder="{&quot;name&quot;: 'file[]'...}" />
+                <marker date="1428646140190" expanded="true" signature="1149:2041" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="1200:2027" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="1762:1896" placeholder="{&quot;id&quot;: 'img'...}" />
+                <marker date="1428646140190" expanded="true" signature="1915:2006" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="2102:2186" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="2231:2437" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="2305:2423" placeholder="{...}" />
+                <marker date="1428646140190" expanded="true" signature="2471:3139" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="2490:3131" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="2513:3124" placeholder="..." />
+                <marker date="1428646140190" expanded="true" signature="2626:3022" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_uploader/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="27" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="14" selection-start="251" selection-end="251" vertical-scroll-proportion="0.1954023">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-6.3333335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/admin/user_list.php" />
+        <option value="$PROJECT_DIR$/control/logout.php" />
+        <option value="$PROJECT_DIR$/admin/user_tie_manager.php" />
+        <option value="$PROJECT_DIR$/control/login.php" />
+        <option value="$PROJECT_DIR$/control/nav.php" />
+        <option value="$PROJECT_DIR$/control/footer.php" />
+        <option value="$PROJECT_DIR$/control/index.php" />
+        <option value="$PROJECT_DIR$/admin/user_add.php" />
+        <option value="$PROJECT_DIR$/class/mysql.class.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/nav.php" />
+        <option value="$PROJECT_DIR$/admin/style.css" />
+        <option value="$PROJECT_DIR$/admin/image_upload.php" />
+        <option value="$PROJECT_DIR$/admin/upload.php" />
+        <option value="$PROJECT_DIR$/image_uploader/index.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pymusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pymusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image_uploader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pymusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebServers\home\pymusic\www\admin" />
+      <recent name="D:\Webservers\home\radio.jp\www\stat" />
+      <recent name="D:\Webservers\home\radio.jp\www\css\bootstrap-3.3.2-dist\js" />
+      <recent name="D:\Webservers\home\radio.jp\www\css" />
+      <recent name="D:\Webservers\home\radio.jp\www\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Webservers\home\radio.jp\www\css\bootstrap-3.3.2-dist\js" />
+      <recent name="D:\Webservers\home\radio.jp\www\css" />
+      <recent name="D:\Webservers\home\radio.jp\www\" />
+      <recent name="D:\Webservers\home\radio.jp\www\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.submit.php">
+    <configuration default="false" name="submit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/submit.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.submit.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.submit.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40edbbd1-460f-4ef5-b5b9-7924d95f2e62" name="Default" comment="" />
+      <created>1425401708384</created>
+      <updated>1425401708384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14010416" sideWeight="0.67266774" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/user_tie_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="27" selection-start="5303" selection-end="5303" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="65" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="0" selection-end="7866" vertical-scroll-proportion="0.02463768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="128" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="30" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/user_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="247" column="10" selection-start="8919" selection-end="8919" vertical-scroll-proportion="0.5173913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ajaxsubmit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="332" selection-end="332" vertical-scroll-proportion="0.22173913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/user_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="105" selection-end="105" vertical-scroll-proportion="0.02463768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="233" selection-end="233" vertical-scroll-proportion="-0.65384614">
+          <folding>
+            <marker date="1428584731390" expanded="true" signature="1067:4140" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="1075:2206" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="1995:2195" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2214:4131" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2239:3734" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2261:3727" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2308:3716" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2366:3701" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2410:2497" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2538:3682" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2610:3659" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2645:3631" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2698:2857" placeholder="..." />
+            <marker date="1428584731390" expanded="true" signature="2910:3070" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="29" selection-start="2661" selection-end="2661" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/image_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="40" selection-end="3148" vertical-scroll-proportion="-1.3333334">
+          <folding>
+            <marker date="1428646140190" expanded="true" signature="61:3147" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="68:2465" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="414:2464" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="532:2449" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="692:999" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="737:790" placeholder="{&quot;id&quot;: 'filediv'...}" />
+            <marker date="1428646140190" expanded="true" signature="828:964" placeholder="{&quot;name&quot;: 'file[]'...}" />
+            <marker date="1428646140190" expanded="true" signature="1149:2041" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="1200:2027" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="1762:1896" placeholder="{&quot;id&quot;: 'img'...}" />
+            <marker date="1428646140190" expanded="true" signature="1915:2006" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="2102:2186" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="2231:2437" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="2305:2423" placeholder="{...}" />
+            <marker date="1428646140190" expanded="true" signature="2471:3139" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="2490:3131" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="2513:3124" placeholder="..." />
+            <marker date="1428646140190" expanded="true" signature="2626:3022" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_uploader/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="244" selection-end="244" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="-6.3333335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="251" selection-end="251" vertical-scroll-proportion="0.1954023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

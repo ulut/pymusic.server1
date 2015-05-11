@@ -1,0 +1,20 @@
+.meter {
+    height: 20px;  /* Can be anything */
+    position: relative;
+    background: #555;
+}
+
+.meter > span {
+    display: block;
+    height: inherit;
+    background-color: rgb(43,194,83);
+    position: relative;
+    overflow: hidden;
+}
+.meter > span:after, .animate > span > span {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    z-index: 1;
+    overflow: hidden;
+}
