@@ -30,7 +30,7 @@
                         </li>
 
                         <li class="logout">
-                            <a href="logout.php"><i class="mdi-action-exit-to-app"></i></a>
+                            <a class='dropdown-button btn' href='#' data-activates='dropdown1'><i class="mdi-action-exit-to-app"></i></a>
                         </li>
                         <!-- Dropdown Trigger -->
                         <ul id='dropdown1' class='dropdown-content'>
